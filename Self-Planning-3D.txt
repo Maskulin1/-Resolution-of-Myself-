@@ -1,4 +1,6 @@
 Rencana Belajar 3D Design
+- Pemahaman dasar tentang 3D Design
+- Cara Install Blender
 - Memiliki pemahaman Blender sebagai tools
 - Memahami seluruh kegunaan Blender
 - Membuat donat dengan 3D Design
@@ -6,3 +8,5 @@ Rencana Belajar 3D Design
 - Menkreasikan sebuah object lain dalam 3D
 - Memahami node" yang ada dalam Blender
 - Memahami Color Theory
+- Belajar Gradasi Warna
+- Belajar mengenai axis-axis
