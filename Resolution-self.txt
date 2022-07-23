@@ -1,0 +1,4 @@
+Reihan Resolution
+- Konsisten memahami FrontEnd sampai 2023
+- Dapat membuat website portofolio sendiri
+- Mengerti dan menerapkan Html, Css, Javascript
