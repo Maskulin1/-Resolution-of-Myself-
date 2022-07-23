@@ -4,3 +4,5 @@ Reihan Resolution
 - Mengerti dan menerapkan Html, Css, Javascript
 - Memahami Framework NodeJs, Express, ReactJs
 - Menjadi lulusan terbaik kampus merdeka
+- Bekerja di Perusahaan mana saja
+- Asal memiliki gaji di Tahun pertama 10-20 juta/bulan
