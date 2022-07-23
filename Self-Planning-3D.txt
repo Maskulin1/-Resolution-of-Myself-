@@ -3,3 +3,5 @@ Rencana Belajar 3D Design
 - Memahami seluruh kegunaan Blender
 - Membuat donat dengan 3D Design
 - Memahami animasi di Blender
+- Menkreasikan sebuah object lain dalam 3D
+- Memahami node" yang ada dalam Blender
