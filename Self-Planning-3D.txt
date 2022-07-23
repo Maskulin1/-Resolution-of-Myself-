@@ -8,3 +8,5 @@ Rencana Belajar 3D Design
 - Menkreasikan sebuah object lain dalam 3D
 - Memahami node" yang ada dalam Blender
 - Memahami Color Theory
+- Belajar Gradasi Warna
+- Belajar mengenai axis-axis
