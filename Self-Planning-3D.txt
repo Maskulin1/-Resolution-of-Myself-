@@ -5,4 +5,4 @@ Rencana Belajar 3D Design
 - Memahami animasi di Blender
 - Menkreasikan sebuah object lain dalam 3D
 - Memahami node" yang ada dalam Blender
-- Memahami Color Theory
+- Pelajari tentang jenis-jenis warna dalam digital
