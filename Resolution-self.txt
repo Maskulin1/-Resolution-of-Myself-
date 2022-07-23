@@ -3,4 +3,4 @@ Reihan Resolution
 - Dapat membuat website portofolio sendiri
 - Mengerti dan menerapkan Html, Css, Javascript
 - Memahami Framework NodeJs, Express, ReactJs
-- Memahami GIT dan Github
+- Menjadi lulusan terbaik kampus merdeka
