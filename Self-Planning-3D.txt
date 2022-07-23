@@ -1,0 +1,5 @@
+Rencana Belajar 3D Design
+- Memiliki pemahaman Blender sebagai tools
+- Memahami seluruh kegunaan Blender
+- Membuat donat dengan 3D Design
+- Memahami animasi di Blender
